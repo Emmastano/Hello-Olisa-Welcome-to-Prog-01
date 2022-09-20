@@ -4,4 +4,6 @@
 int main();
 {
     printf("Hello World and Welcome to C programming")
+
+    return (0);
 }
